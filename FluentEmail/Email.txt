@@ -1,1 +1,1 @@
-﻿<p>Hello from the Bottu Side @name</p>
+﻿<p>Hello from the other side @name</p>
